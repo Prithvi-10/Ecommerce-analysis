@@ -12,10 +12,11 @@ and the impact of delays on customer satisfaction.
 ## 📊 Dashboard
 
 ### Page 1 — Revenue & Delivery Overview
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](images/dashboard1.png)
+
 
 ### Page 2 — Regional & Payment Insights
-![Dashboard 2](dashboard2.png)
+![Dashboard 2](images/dashboard2.png)
 
 ---
 
