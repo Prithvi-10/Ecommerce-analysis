@@ -85,12 +85,14 @@ and the impact of delays on customer satisfaction.
 ## 📁 Repository Structure
 
 ```
-olist-ecommerce-analysis/
+Ecommerce-analysis/
 │
-├── README.md
-├── olist_analysis.sql        
-├── dashboard1.png            
-└── dashboard2.png            
+├── images/
+│   ├── Dashboard1.png        ← Revenue & Delivery Overview
+│   └── Dashboard2.png        ← Regional & Payment Insights
+├── Ecommerce Project.sql     ← Data cleaning and analysis queries
+├── Ecommerce_final_project.pbix  ← Power BI dashboard file
+└── README.md
 ```
 
 ---
